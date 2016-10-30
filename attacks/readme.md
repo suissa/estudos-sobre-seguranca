@@ -2,14 +2,16 @@
 
 Lista dos ataques mais comuns:
 
-- brute force
-- trojan
-- buffer overflow
+- Brute Force
+- Trojan/backdoor
+- Buffer Overflow/bOf
 - XSS
-- sniffer
-- spoof
-- ransonware
-- man in the middle
+- Sniffering
+- Spoofing
+- Ransonware
+- Man in the middle
 - DoS
 - DDoS
 - DNS poison
+- SQL Injection
+- Code Injection
