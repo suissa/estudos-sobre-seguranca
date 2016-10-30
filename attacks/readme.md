@@ -2,14 +2,31 @@
 
 Lista dos ataques mais comuns:
 
-- brute force
-- trojan
-- buffer overflow
+- Brute force
+- Trojan
+- Buffer Overflow
 - XSS
-- sniffer
-- spoof
-- ransonware
-- man in the middle
+- Sniffer
+- Spoof
+- Ransonware
+- Man in The Middle
 - DoS
 - DDoS
 - DNS poison
+- DNSMap
+- DNSRecon
+- NMap
+- Zenmap
+- Wireshark
+- SQLMap
+- SQLNinja
+- Nikto
+- Uniscan/Uniscan-GUI
+- WPScan
+- Pyrit
+- Crunch
+- Hydra
+- `aircrack-ng`
+- Beef XSS Framework
+- Metasploit
+- Armitage
