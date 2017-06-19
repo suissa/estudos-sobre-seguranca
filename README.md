@@ -8,3 +8,5 @@ Meus pequenos estudos sapecas.
 - Redes
 - Sistemas Web
 - Banco de dados
+- Shell/Bash
+- Exploits
